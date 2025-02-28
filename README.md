@@ -1,6 +1,8 @@
 # HEIC Image Converter
 
-A simple Python utility that converts HEIC image files to PNG or JPEG format.
+A simple Python utility that converts HEIC image files to PNG or JPEG format.  Useful for converting
+iphone/ipad images to a more common format in bulk.  Just drop your HEIC files into the original folder,
+run the script, and voila, your images are converted and ready to use.
 
 ## Description
 
